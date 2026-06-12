@@ -1,9 +1,0 @@
-{
-  "boot_strap":          "https://raw.githubusercontent.com/VRXikk/juicego-public/main/boot_strap.mp3",
-  "networking_success":  "https://raw.githubusercontent.com/VRXikk/juicego-public/main/networking_success.mp3",
-  "networking_fail":     "https://raw.githubusercontent.com/VRXikk/juicego-public/main/networking_fail.mp3",
-  "rent_success":        "https://raw.githubusercontent.com/VRXikk/juicego-public/main/rent_success.mp3",
-  "rent_fail":           "https://raw.githubusercontent.com/VRXikk/juicego-public/main/rent_fail.mp3",
-  "return_success":      "https://raw.githubusercontent.com/VRXikk/juicego-public/main/return_success.mp3",
-  "return_fail":         "https://raw.githubusercontent.com/VRXikk/juicego-public/main/return_fail.mp3"
-}
